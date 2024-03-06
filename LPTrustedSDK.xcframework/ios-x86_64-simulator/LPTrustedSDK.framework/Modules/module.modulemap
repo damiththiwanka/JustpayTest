@@ -1,0 +1,6 @@
+framework module LPTrustedSDK {
+  umbrella header "LPTrustedSDK.h"
+
+  export *
+  module * { export * }
+}
